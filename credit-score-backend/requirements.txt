@@ -1,0 +1,6 @@
+fastapi==0.109.1
+uvicorn==0.27.1
+pydantic==2.6.1
+python-multipart==0.0.9
+setuptools==76.0.0
+wheel==0.45.1

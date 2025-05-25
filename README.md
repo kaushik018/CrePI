@@ -103,4 +103,10 @@ Predicts credit score based on user financial data.
 - Income must be greater than 0
 - Expenses must be 0 or greater
 - Debt must be 0 or greater
-- Expenses cannot be greater than income 
+- Expenses cannot be greater than income
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/7fee23df-b6d4-45a4-8b1c-daaad5d5881d)
+![image](https://github.com/user-attachments/assets/bb0c2e49-30e6-4e53-9a93-52ef4383908d)
+
+

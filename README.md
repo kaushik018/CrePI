@@ -106,7 +106,7 @@ Predicts credit score based on user financial data.
 - Expenses cannot be greater than income
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/7fee23df-b6d4-45a4-8b1c-daaad5d5881d)
-![image](https://github.com/user-attachments/assets/bb0c2e49-30e6-4e53-9a93-52ef4383908d)
+<img width="1051" alt="Screenshot 2025-05-25 at 12 09 42 PM" src="https://github.com/user-attachments/assets/cd48dcc1-03ba-44be-adc3-c2fa15cadbd7" />
 
+<img width="1042" alt="Screenshot 2025-05-25 at 12 10 39 PM" src="https://github.com/user-attachments/assets/e33d00ac-8742-4945-8eb0-bfc9b3889ec0" />
 

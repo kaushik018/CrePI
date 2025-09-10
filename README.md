@@ -113,7 +113,7 @@ Response:
 
 ---
 
-## 📈 Why This Project Stands Out (For Recruiters)
+## 📈 Project Highlights
 
 - **Full-Stack Ownership:** Designed, built, and deployed both backend and frontend
 - **ML Integration:** Real-world ML model in production, not just a demo
